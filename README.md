@@ -33,6 +33,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashwin-dinesh-99452188"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashwin%20Dinesh-white?style=flat-square&logo=linkedin"></a>
-&spnb;
+&nbsp;
 <a href="mailto:ashwin.dinesh01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashwin.dinesh01@gmail.com-white?style=flat-square&logo=gmail"></a>
 </p>
