@@ -21,18 +21,16 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
 <br/>
-
-<a href="https://github.com/ashwindmk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwindmk&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwindmk&theme=dark&layout=compact" />
-</a>
-
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=ashwindmk&theme=dark&show_icons=true" />
+</p>
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwindmk&theme=dark&layout=compact&count_private=true&show_icons=true&include_all_commits=true" />
+</p>
 <br/>
 
 ### Connect with Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ashwin-dinesh-99452188"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashwin%20Dinesh-white?style=flat-square&logo=linkedin"></a>
-&nbsp;
-<a href="mailto:ashwin.dinesh01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashwin.dinesh01@gmail.com-white?style=flat-square&logo=gmail"></a>
+<p>
+  <a href="https://www.linkedin.com/in/ashwin-dinesh-99452188"><img src="https://img.shields.io/badge/-Ashwin%20Dinesh-blue?style=flat-square&logo=linkedin"></a>
 </p>
