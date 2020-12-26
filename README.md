@@ -4,7 +4,7 @@
 
 - Exploring new technologies and developing software solutions.
 - Working as a Software Engineer at WebEngage.
-- Learning more about Architecture, Systems Design, and Artificial Intelligence.
+- Learning more about Architecture, Systems Design, Android, and Artificial Intelligence.
 - Pursuing Blog Writing and Product Design as hobbies.
 
 ### Tech Stack
