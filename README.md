@@ -3,7 +3,7 @@
 ### About Me
 
 - Exploring new technologies and developing software solutions.
-- Working as a Software Engineer at WebEngage.
+- Working as a Software Engineer.
 - Learning more about Architecture, Systems Design, Android, and Artificial Intelligence.
 - Pursuing Blog Writing and Product Design as hobbies.
 
